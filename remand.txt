@@ -1,0 +1,5 @@
+输入命令：python manage.py runserver
+
+访问路径：http://127.0.0.1:8000/admin/
+ 用户名：admin
+  密码：admin
